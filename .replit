@@ -1,1 +1,2 @@
-gitrun = "mcs -out:main.exe './Lista1/ex1.cs' ; mono main.exe"
+language = "Bash"
+gitrun = "mcs -out:main.exe'./Lista1/ex1.cs'; mono main.exe"
