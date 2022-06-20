@@ -10,7 +10,7 @@ public class Program {
      int n2 = int.Parse(Console.ReadLine());
      int p1 = 2;
      int p2 = 3;
-     int media = (p1 * n1 + p2 * n2) / (p1+p2);
+     int media = (p1 * n1 + p2 * n2) / (p1 + p2);
      Console.WriteLine($"Média parcial {media}");
   }
 }
