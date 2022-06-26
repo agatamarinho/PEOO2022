@@ -2,7 +2,7 @@ using System;
 
 public class Program {
 
-  public static void Main(string[] args) 
+  public static void Main(String[] args) 
   {
     string[] nome = Console.ReadLine().Split(' ');
     string n = nome[0];

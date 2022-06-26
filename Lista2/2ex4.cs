@@ -11,6 +11,7 @@ public class Program {
     double area = b * h;
     double per = (b * 2) + (h * 2);
     double diag = Math.Sqrt((b * b) + (h * h));
-    Console.WriteLine($"Área = {area:0.00} - Perímetro = {per:0.00} - Diagonal = {diag:0.00}");
+    Console.WriteLine($"Área = {area:0.00} - Perímetro = 
+    {per:0.00} - Diagonal = {diag:0.00}");
   }
 }
